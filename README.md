@@ -3,14 +3,14 @@ Disciplina: Tópicos em Engenharia
 
 Semestre UnB: 2023.2
 
-O tema desses semestre foi sobre "Inteligencia Artificial". Aprendemos vários tipos de IA:
+Professor: Paulo Henrique Portela de Carvalho
+
+O tema desses semestre foi sobre "Inteligência Artificial". Aprendemos vários tipos de IA:
 - IAs simples.
 - IAs DNN (Deep neural network).
-- IAs CNN (Convolucionais).
-- Como usar IAs Pré-Treinadas.
+- IAs CNN (Convolutional neural network).
+- IAs Pré-Treinadas (Disponibilizadas pelo FastAI e Pytorch)
 - IAs LSTM (Long Short Term Memory).
-
-Professor: Paulo Henrique Portela de Carvalho
 
 ## Notas de cada desafio
 Todos os desafios de programação valiam 300, com exceção do último (DPF), que valia 900.
