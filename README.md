@@ -1,2 +1,4 @@
 # Disciplina-TopEng
-Tópicos em Engenharia - prof. Paulo Portela - 2023.2
+Disciplina: Tópicos em Engenharia
+Semestre UnB: 2023.2
+Professor: Paulo Henrique Portela de Carvalho
